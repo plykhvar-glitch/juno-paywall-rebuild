@@ -2,7 +2,7 @@
 
 **Live:** https://plykhvar-glitch.github.io/juno-paywall-rebuild/
 
-Juno runs Meta ads with six different promises, and today every install lands on the same “Unlock Premium with a free trial”. This rebuild gives the three biggest groups their own paywall, in Juno’s design and at Juno’s prices. Prepared by Adapty, November 2026.
+Juno runs Meta ads with six different promises, and today every install lands on the same “Unlock Premium with a free trial”. This rebuild gives the three biggest groups their own paywall, in Juno’s corporate colours (ink, white, cream and amber from junocompanion.com, Instrument Sans, their own photography) and at Juno’s prices. Prepared by Adapty, November 2026.
 
 | # | Idea | Potential outcome |
 | :-- | :-- | :-- |
